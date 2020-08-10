@@ -1,5 +1,5 @@
 # PythonLocalServer
-A python home server with minimal resouce consumption powered by windows' powershell v1.0
+A python home server with minimal resource consumption powered by windows' powershell v1.0
 
 I don't know much of scripting. So I just borrowed scripting ideas from different websites.
 
